@@ -1,0 +1,110 @@
+{
+    "First Word": {
+        "description": "Find your first word.",
+        "unlocked": true
+    },
+    "Word Hunter": {
+        "description": "Find 10 words.",
+        "unlocked": false
+    },
+    "Hint Master": {
+        "description": "Use 5 hints.",
+        "unlocked": false
+    },
+    "Flawless Victory": {
+        "description": "Complete a level without mistakes.",
+        "unlocked": false
+    },
+    "Speed Runner": {
+        "description": "Complete a level within half the time limit.",
+        "unlocked": false
+    },
+    "Perfectionist": {
+        "description": "Complete 5 levels without making a mistake.",
+        "unlocked": false
+    },
+    "Explorer": {
+        "description": "Find all words in a level.",
+        "unlocked": false
+    },
+    "Night Owl": {
+        "description": "Play the game between midnight and 6 AM.",
+        "unlocked": false
+    },
+    "Early Bird": {
+        "description": "Play the game between 6 AM and noon.",
+        "unlocked": false
+    },
+    "Speed Demon": {
+        "description": "Complete 3 levels in a row within half the time limit.",
+        "unlocked": false
+    },
+    "Novice": {
+        "description": "Find 50 words.",
+        "unlocked": false
+    },
+    "Intermediate": {
+        "description": "Find 100 words.",
+        "unlocked": false
+    },
+    "Expert": {
+        "description": "Find 200 words.",
+        "unlocked": false
+    },
+    "Word Master": {
+        "description": "Find 500 words.",
+        "unlocked": false
+    },
+    "Ultimate Hunter": {
+        "description": "Find 1000 words.",
+        "unlocked": false
+    },
+    "No Help Needed": {
+        "description": "Complete 5 levels without using any hints.",
+        "unlocked": false
+    },
+    "Hint Novice": {
+        "description": "Use your first hint.",
+        "unlocked": false
+    },
+    "Mistake Avoider": {
+        "description": "Complete a level with fewer than 3 mistakes.",
+        "unlocked": false
+    },
+    "Unstoppable": {
+        "description": "Complete 10 levels in a row without failing.",
+        "unlocked": false
+    },
+    "Strategist": {
+        "description": "Complete a level with more than 5 minutes remaining.",
+        "unlocked": false
+    },
+    "Comeback King": {
+        "description": "Win a level with less than 1 minute remaining.",
+        "unlocked": false
+    },
+    "Consistent Player": {
+        "description": "Play the game for 7 consecutive days.",
+        "unlocked": false
+    },
+    "Marathon Player": {
+        "description": "Play the game for 30 consecutive days.",
+        "unlocked": false
+    },
+    "Puzzle Enthusiast": {
+        "description": "Complete 20 levels.",
+        "unlocked": false
+    },
+    "Puzzle Expert": {
+        "description": "Complete 50 levels.",
+        "unlocked": false
+    },
+    "Puzzle Master": {
+        "description": "Complete 100 levels.",
+        "unlocked": false
+    },
+    "Speed Challenger": {
+        "description": "Complete 5 levels within the time limit.",
+        "unlocked": false
+    }
+}
