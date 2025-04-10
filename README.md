@@ -47,7 +47,7 @@ pip intall datetime
    - Navigate to the directory containing all the files.
    - Run the game using the following command:
      ```bash
-     python wird_puzzle.py
+     python word_puzzle.py
      ```
    - If you encounter any issues, ensure all dependencies are properly installed.
 
